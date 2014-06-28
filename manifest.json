@@ -1,0 +1,21 @@
+{
+  "name": "Projeggt",
+  "description": "Incubando ideas con crowdfunding",
+  "version": "4",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.projeggt.com/"
+      
+    ],
+    "launch": {
+      "web_url": "http://www.projeggt.com"
+    }
+  },
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "notifications"
+  ]
+}
